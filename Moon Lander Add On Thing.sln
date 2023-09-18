@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Moon Lander Add On Thing", "Moon Lander Add On Thing\Moon Lander Add On Thing.pyproj", "{44CE478D-AF0D-4DD1-B744-0D93601EE3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44CE478D-AF0D-4DD1-B744-0D93601EE3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CE478D-AF0D-4DD1-B744-0D93601EE3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B559C05A-10E9-424A-894D-47004EF17408}
+	EndGlobalSection
+EndGlobal
